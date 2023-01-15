@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subx6789
 - 👀 I’m interested in web and blockchain development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 - Email: subhajits956@gmail.com
