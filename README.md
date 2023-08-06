@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subx6789
-- 👀 I’m interested in web and blockchain development
-- 🌱 I’m currently learning react.js
+- 👀 I’m interested in UI UX Designing but know a little bit of Web Developement
+- 🌱 I’m currently learning Figma
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 - Email: subhajits956@gmail.com
