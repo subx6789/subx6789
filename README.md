@@ -28,22 +28,22 @@ Full-stack developer focused on turning</br>experimental ideas into production-r
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript,swift" height="48" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,typescript" height="48" />
 </p>
 
 <h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express" height="48" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring" height="48" />
 </p>
 
 <h3 align="center">Build Tools & Package Managers</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=maven,gradle,npm,vite" height="48" />
+  <img src="https://skillicons.dev/icons?i=gradle,npm,vite,maven" height="48" />
 </p>
 
 <h3 align="center">Databases & Backend Services</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb,firebase" height="48" />
 </p>
 
 <h3 align="center">Operating Systems</h3>
@@ -115,7 +115,7 @@ Full-stack developer focused on turning</br>experimental ideas into production-r
 <h3 align="center">I'm Currently Focusing on</h3>
 
 <p align="center">
-  Spring Boot Mastery
+  Making Cool Projects
 </p>
 
 <p align="center">
